@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-first file, also this tutorial isnt that good.
+Knock Knock, whos there, me lol
 Use the right arrow to begin!
